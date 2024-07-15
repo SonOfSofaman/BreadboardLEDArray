@@ -1,10 +1,10 @@
 # Breadboard LED Array
 
-I created these LED Arrays for use in my construction of the internet famous [Ben Eater 8-bit Computer](https://eater.net/8bit), but they could be handy for any breadboard project that requires groups of 8 LEDs.
+I created this LED Array for use in my construction of the internet famous [Ben Eater 8-bit Computer](https://eater.net/8bit), but they could be handy for any breadboard project that requires groups of 8 LEDs.
 
 If you wish to make your own, the files for the PCB and links to the parts can be found below. Some assembly required.
 
-![Breadboard LED Array - rendered by KiCad 7](artwork/3d-view-bg-blk.png | height=100) ![Breadboard LED Array - in situ](artwork/in-situ.png | height=100)
+<img src="artwork/3d-view-bg-blk.png" height="160" style="margin-right:10px;" /> <img src="artwork/in-situ.png" height="160" />
 
 Go ahead. Laugh at my sloppy construction. I had a 3D printed assembly jig made after I did this one by hand. What a difference it made. Thanks, Luke!
 
